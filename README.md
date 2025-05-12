@@ -1,4 +1,4 @@
-# 🚀 Swift Task Master
+# 🚀 Task Manager
 
 A modern and responsive **task management app** built with:
 
