@@ -9,17 +9,6 @@ A modern and responsive **task management app** built with:
 
 ---
 
-## 📸 Screenshots
-
-> Replace these with actual screenshots from your app.
-
-### ✅ Dashboard View
-![Dashboard](./screenshots/dashboard.png)
-
-### ✏️ Edit Task Modal
-![Edit Task](./screenshots/edit-task.png)
-
----
 
 ## ✨ Features
 
